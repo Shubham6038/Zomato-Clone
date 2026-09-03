@@ -6,7 +6,7 @@ import { store, addToCart, removeFromCart, clearCart } from './store';
 
 import AuthPage from './AuthPage';
 import DashboardPage from './DashboardPage';
-import Chatbot from './chatbot';
+import Chatbot from './Chatbot';
 
 // Protected Route Guard
 function ProtectedRoute({ children }) {
